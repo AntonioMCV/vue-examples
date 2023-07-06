@@ -1,5 +1,10 @@
 # real-world-vue
 
+## Node version compatible
+```
+NodeJS 8.10.0
+```
+
 ## Project setup
 ```
 npm install
