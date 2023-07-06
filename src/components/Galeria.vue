@@ -23,57 +23,57 @@ export default {
           id: 1,
           title: "Primera Imagen",
           description: "Descripción Primera Imagen",
-          thumbnail: "https://videotutoriales.com/egipto01.png",
-          imageLink: "https://videotutoriales.com/egipto01b.png"
+          thumbnail: "galeria/10.jpg",
+          imageLink: "galeria/10.jpg"
         },
         {
           id: 2,
           title: "Segunda Imagen",
           description: "Descripción Segunda Imagen",
-          thumbnail: "https://videotutoriales.com/egipto02.png",
-          imageLink: "https://videotutoriales.com/egipto02b.png"
+          thumbnail: "galeria/21.jpg",
+          imageLink: "galeria/21.jpg"
         },
         {
           id: 3,
           title: "Tercera Imagen",
           description: "Descripción Tercera Imagen",
-          thumbnail: "https://videotutoriales.com/egipto03.png",
-          imageLink: "https://videotutoriales.com/egipto03b.png"
+          thumbnail: "galeria/24.jpg",
+          imageLink: "galeria/24.jpg"
         },
         {
           id: 4,
           title: "Cuarta Imagen",
           description: "Descripción Cuarta Imagen",
-          thumbnail: "https://videotutoriales.com/egipto04.png",
-          imageLink: "https://videotutoriales.com/egipto04b.png"
+          thumbnail: "galeria/28.jpg",
+          imageLink: "galeria/28.jpg"
         },
         {
           id: 5,
           title: "Quinta Imagen",
           description: "Descripción Quinta Imagen",
-          thumbnail: "https://videotutoriales.com/egipto05.png",
-          imageLink: "https://videotutoriales.com/egipto05b.png"
+          thumbnail: "galeria/43.jpg",
+          imageLink: "galeria/43.jpg"
         },
         {
           id: 6,
           title: "Sexta Imagen",
           description: "Descripción Sexta Imagen",
-          thumbnail: "https://videotutoriales.com/egipto06.png",
-          imageLink: "https://videotutoriales.com/egipto06b.png"
+          thumbnail: "galeria/52.jpg",
+          imageLink: "galeria/52.jpg"
         },
         {
           id: 7,
           title: "Séptima Imagen",
           description: "Descripción Séptima Imagen",
-          thumbnail: "https://videotutoriales.com/egipto07.png",
-          imageLink: "https://videotutoriales.com/egipto07b.png"
+          thumbnail: "galeria/66.jpg",
+          imageLink: "galeria/66.jpg"
         },
         {
           id: 8,
           title: "Octaba Imagen",
           description: "Descripción Octaba Imagen",
-          thumbnail: "https://videotutoriales.com/egipto08.png",
-          imageLink: "https://videotutoriales.com/egipto08b.png"
+          thumbnail: "galeria/74.jpg",
+          imageLink: "galeria/74.jpg"
         }
       ]
     };
